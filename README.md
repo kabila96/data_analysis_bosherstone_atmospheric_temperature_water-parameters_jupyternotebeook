@@ -1,0 +1,2 @@
+# data_analysis_bosherstone_atmospheric_temperature_water-parameters_jupyternotebeook
+The project shows workflow of data analysis between Atmospheric temperature and water chemistry at Bosherstone lilly ponds
